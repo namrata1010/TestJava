@@ -1,0 +1,6 @@
+webserver - i-1bb55691 c4.large 
+tune-mongo-i-2622d6ac  c4.large
+webserver-i-64b953ee   c4.large
+mongo-portyx-i-6a0f15e1 c4.large
+NFS-i-b7t9t83a           t2.medium
+bastion server-i-e127c6a t2.micro 
